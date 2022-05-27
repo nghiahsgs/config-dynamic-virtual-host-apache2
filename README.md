@@ -8,6 +8,7 @@ sudo ln -s /etc/apache2/mods-available/vhost_alias.load /etc/apache2/mods-enable
 ```
 
 
+## config virtual host apache : dynamic sub domain => auto pointer to sub foder which has same name
 ```
 cd /etc/apache2/sites-available
 vi your_domain.conf
